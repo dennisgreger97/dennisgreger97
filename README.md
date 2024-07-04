@@ -10,8 +10,7 @@
 
 ## Projekte
 
-- **[Projekt 1]():** Beschreibung
-- **[Projekt 2]():** Beschreibung
+- **[Projekt 1]():** Website der Panthers Cheerleader Krempe
 
 ## Kontakt
 
