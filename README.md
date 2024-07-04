@@ -1,9 +1,23 @@
-## Hi there 👋
+# Willkommen 👋
 
-<!--
-**dennisgreger97/dennisgreger97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Über mich
+
+- **Name:** Dennis Greger
+- **Beruf:** Umschulung Web- und Softwareentwickler
+- **Hobbys:** Cheerleading, Tennis, Crossfit, Programmieren
+
+
+## Projekte
+
+- **[Projekt 1]():** Beschreibung
+- **[Projekt 2]():** Beschreibung
+
+## Kontakt
+
+- **Email:** dennis19876@googlemail.com
+- **LinkedIn:** [Dennis Greger](https://www.linkedin.com/in/dennis-greger-03116a313/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
