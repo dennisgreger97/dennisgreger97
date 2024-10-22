@@ -4,8 +4,8 @@
 ## Über mich
 
 - **Name:** Dennis Greger
-- **Beruf:** Umschulung Web- und Softwareentwickler
-- **Hobbys:** Cheerleading, Tennis, Crossfit, Programmieren
+- **Beruf:** Umschulung zum Web- und Softwareentwickler
+- **Hobbys:** Cheerleading, Crossfit, Konzerte, Programmieren
 
 
 ## Projekte
@@ -16,3 +16,4 @@
 
 - **Email:** dennis-greger@gmx.de
 - **LinkedIn:** [Dennis Greger](https://www.linkedin.com/in/dennis-greger-03116a313/)
+- **Instagram:** [dennisgreger](https://www.instagram.com/dennisgreger/)
