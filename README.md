@@ -14,5 +14,5 @@
 
 ## Kontakt
 
-- **Email:** dennis19876@googlemail.com
+- **Email:** dennis-greger@gmx.de
 - **LinkedIn:** [Dennis Greger](https://www.linkedin.com/in/dennis-greger-03116a313/)
